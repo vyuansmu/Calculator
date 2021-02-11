@@ -1,4 +1,6 @@
 float addition (float a, float b)
 {
-    return a+b;
+  float c = a + b;
+  printf("%f + %f = %f \n",a, b, c);
+  return c;
 }
