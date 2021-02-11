@@ -1,1 +1,37 @@
 functions: addition, subtraction, multiplication, division, power, root
+
+
+main
+output..asking 1 number
+inputer  1st number
+display and ask options
+1. addition
+2. subtraction
+3. multiplication
+4. division
+5. power
+6. root
+
+get input
+
+ask for second number
+
+input leads to function
+
+func display the value 
+
+ask for another calculation
+
+mul/div: sukhwinder
+add/sub: jinto
+Root: patric
+power: victor
+main: abdulahi
+
+
+
+
+
+
+
+
